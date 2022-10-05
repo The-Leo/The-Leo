@@ -11,6 +11,8 @@ I am committed to life-long learning and want to utilise my unbridled passion fo
  
 - 📫 How to reach me: odoi.leonard1@gmail.com
 
+LinkedIn Profile:
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="leonard-odoi" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://gh.linkedin.com/in/leonard-odoi?trk=profile-badge">Leonard Odoi</a></div>
 <!---
 The-Leo/The-Leo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -27,3 +29,5 @@ You can click the Preview link to take a look at your changes.
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+
+              
