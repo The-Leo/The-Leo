@@ -1,13 +1,14 @@
 <h1> Hello there; I'm Leonard, </h1>
 
-I am an innovative Full Stack Engineer with experience in implementing MVC Architecture patterns, querying databases with SQL, and working in cloud computing environments such as AWS. I have a keen ability to identify, understand and translate application requirements into new solutions through Python, C#, JavaScript/Typescript and many other programming languages. 
+I am a publisher turned full stack engineer with experience in implementing MVC Architecture patterns, designing RESTful APIs that support web applications, querying databases with SQL, and working in cloud computing environments such as AWS. My latest project involved deploying a flask application to Kubernetes using AWS Elastic Kubernetes Service(EKS). 
 
-I have a Materials Engineering background from the Kwame Nkrumah University of Science and Technology, Computer Science training from Harvard, and exposure to software engineering methodologies and best practices through comprehensive programs like Udacity's ALX-T FSND program, and several coding boot camps.
+I'm currently working on a self-help application that can interpret numerological patterns, calculate life path numbers and teach users how to integrate numerology into their daily lives to manifest higher qualities. I am able to translate application requirements into new solutions through Python, C#, JavaScript/Typescript, SQL, React, etc. 
 
-With an additional background in Graphic design and practical knowledge of agile testing methodologies; TDD, FDD & BDD, I co-founded Hyperspace Creative Lab; a creative design and software development startup that has advised 6 startups. 
+I have a Materials Engineering background from the Kwame Nkrumah University of Science and Technology, and exposure to software engineering methodologies and best practices through comprehensive programs like Udacity's ALX-T FSND program, and several coding boot camps.
 
-I love to tear code apart to experiment with it and maybe improve it, and sometimes wholly impair it (in a separate GIT branch of course:)).
-I am committed to life-long learning and want to utilise my unbridled passion for coding to create a positive impact in the tech industry and the world.
+I love to tear code apart to experiment with it and maybe improve it, and sometimes end up making it defective (in a separate GIT branch of course:)).
+
+I am committed to life-long learning and want to utilize my unbridled passion for coding to create a positive impact in the tech industry and the world.
  
 - 📫 How to reach me: odoi.leonard1@gmail.com
 
