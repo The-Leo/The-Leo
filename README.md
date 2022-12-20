@@ -6,9 +6,9 @@ I'm currently working on a self-help application that can interpret numerologica
 
 I have a Materials Engineering background from the Kwame Nkrumah University of Science and Technology, and exposure to software engineering methodologies and best practices through comprehensive programs like Udacity's ALX-T FSND program, and several coding boot camps.
 
-I love to tear code apart to experiment with it and maybe improve it, and sometimes end up making it defective (in a separate GIT branch of course:)).
+I love to tear code apart, experiment with it and improve it (in a separate GIT branch, yh:)).
 
-I am committed to life-long learning and want to utilize my unbridled passion for coding to create a positive impact in the tech industry and the world.
+I am committed to life-long learning and want to utilize my unbridled passion for coding to create a positive impact in the tech and finance industry and the world.
  
 - 📫 How to reach me: odoi.leonard1@gmail.com
 
