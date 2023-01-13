@@ -21,11 +21,4 @@ You can click the Preview link to take a look at your changes.
 
 <img align="left" width="47%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=The-Leo&layout=compact" />
 
-// <img align="left" width="47%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=The-Leo&layout=compact" />
-
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=The-Leo&show_icons=true&theme=radical" />
-
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
