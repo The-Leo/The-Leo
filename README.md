@@ -21,4 +21,4 @@ You can click the Preview link to take a look at your changes.
 
 <img align="left" width="47%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=The-Leo&layout=compact" />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=The-Leo&show_icons=true&theme=radical" />
+<img align="left" width="47%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=The-Leo&show_icons=true&theme=radical" />
