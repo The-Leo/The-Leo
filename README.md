@@ -9,6 +9,9 @@ I have a Materials Engineering background from the Kwame Nkrumah University of S
 I love to tear code apart, experiment with it and improve it (in a separate GIT branch, yh:)).
 
 I am committed to life-long learning and want to utilize my unbridled passion for coding to create a positive impact in the tech and finance industry and the world.
+
+Fun Fact: 😄
+NASA’s reusable space shuttle in the 1970s had less code than our phones today.
  
 - 📫 How to reach me: odoi.leonard1@gmail.com
 
@@ -21,6 +24,3 @@ You can click the Preview link to take a look at your changes.
 <img align="left" width="47%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=The-Leo&show_icons=true&theme=radical" />
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=The-Leo&layout=compact)](https://github.com/The-Leo/github-readme-stats)
-
-
-
